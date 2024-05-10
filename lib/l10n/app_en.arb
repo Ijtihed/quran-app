@@ -1,0 +1,67 @@
+{
+	"title": "القرآن الكريم بدون نت",
+	"quran": "Quran",
+	"dua": "Du'a",
+	"back": "Back",
+	"toc": "Table of Contents",
+	"goToBookmark": "Go to Bookmark",
+	"setBookmark": "Place Bookmark",
+	"removeBookmark": "Remove Bookmark",
+
+	"changeLang": "اللغه العربيه",
+	"lang": "Language",
+	"support": "Support Email",
+	"help": "Help",
+	"about": "About",
+
+	"morningDua": "Morning Du'a",
+	"eveningDua": "Evening Du'a",
+	"khitmDua": "Du'a Al-Khitm",
+
+	"aboutToc": "Table of Contents",
+	"aboutInfo": "General Information",
+	"aboutNavigation": "Navigation",
+	"aboutMenu": "Menu Options",
+	"aboutDua": "Du'a Section",
+	"aboutAdditional": "Additional Help",
+
+	"aboutInfoQ0": "What is this Quran App all about?",
+	"aboutInfoA0": "This Quran App is designed to provide a seamless and interactive experience for reading the Quran. It features easy navigation, a variety of options through a pop-up menu, and a separate section for Duas.",
+
+	"aboutNavigationQ0": "How do I navigate to the next Aya?",
+	"aboutNavigationA0": "To navigate to the next Aya, simply scroll to the left on your screen.",
+	
+	"aboutNavigationQ1": "How do I go back to the previous Aya?",
+	"aboutNavigationA1": "To go back to the previous Aya, scroll to the right on your screen.",
+
+	"aboutNavigationQ2": "Is the scrolling feature sensitive to speed?",
+	"aboutNavigationA2": "The scrolling feature is designed to be responsive but not overly sensitive, ensuring a comfortable reading experience.",
+
+	"aboutMenuQ0": "How do I access the menu options?",
+	"aboutMenuA0": "To access the menu options, tap anywhere in the middle of the screen while you are reading the Quran. A menu will pop up, showing you the different available options.",
+	
+	"aboutMenuQ1": "What options are available in the menu?",
+	"aboutMenuA1": "The menu includes options for bookmarking Ayas, going to Du'a Al-Khitm, back to the main menu, and du'as in general.",
+
+	"aboutDuaQ0": "How do I access the Du'a section?",
+	"aboutDuaA0": "The Du'a section can be accessed from the main menu or through a dedicated icon within the app.",
+	
+	"aboutDuaQ1": "What kinds of Du'as are available?",
+	"aboutDuaA1": "The Du'a section includes a variety of supplications for different occasions, such as morning and evening Du'as, and Du'a Al-Khitm.",
+
+	"aboutAdditionalQ0": "What should I do if I encounter a problem or have a suggestion?",
+	"aboutAdditionalA0": "If you encounter any issues or have suggestions for improvement, please feel free to email us at",	
+	
+	"aboutAdditionalQ1": "Is there a user guide or tutorial for this app?",
+	"aboutAdditionalA1": "Currently, there is no separate user guide, but the app is designed to be intuitive. For any specific queries, you can always email us for additional help.",
+
+	"m0": "We have reached the morning and at this very time unto Allah belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent. My Lord, I ask You for the good of this day and the good of what follows it and I take refuge in You from the evil of this day and the evil of what follows it. My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave.",
+	"m1": "O Allah, by your leave we have reached the morning and by Your leave we have reached the evening, by Your leave we live and die and unto You is our resurrection.",
+	"m2": "O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.",
+
+	"e0": "We have reached the evening and at this very time unto Allah belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent. My Lord, I ask You for the good of this night and the good of what follows it and I take refuge in You from the evil of this night and the evil of what follows it. My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave.",
+	"e1": "O Allah, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return.",
+	"e2": "O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.",
+
+	"k": "O Allah I have recited that which Thou commands from Thy Book Thou revealed to Thy truthful Prophet, blessings of Allah be on him and on his children. (All) praise be to our Lord. O Allah let me be one of those who take to the lawful and keep from the unlawful, accept and show submission to its clear as well as similar commands, let (this recitation) be my companion in my grave and at the time of Resurrection, and let me be one of those whom Thou shall raise and exalt, on account of this recitation, on the highest pedestal in the Paradise. Be it so O the Lord of the worlds."
+}
