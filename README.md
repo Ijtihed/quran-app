@@ -26,7 +26,7 @@ Contributions to the app are welcome. Feel free to suggest ideas or improvements
 
 ## Credits
 
-- **Developer:** Mazin Elthawy
+- **Developer:** @meltah
 - **Funding:** My father
 - **Earnings:** Will be donated to charity on behalf of my mother (رحمها الله).
 
